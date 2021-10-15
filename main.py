@@ -67,4 +67,4 @@ class Song_Recommender():
 
 recommender = Song_Recommender(df)
 #choose the name of the song, and the number of songs recommended
-recommender.get_recommendations('Red Roses (feat. Landon Cube)', 5)
+recommender.get_recommendations('Lean wit me', 11)
